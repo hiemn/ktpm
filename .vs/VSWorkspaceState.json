@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\packages\\Newtonsoft.Json.13.0.3\\lib",
+    "\\WinApp",
+    "\\WinApp\\Controllers",
+    "\\WinApp\\Models",
+    "\\WinApp\\Models\\Migration",
+    "\\WinApp\\SQL",
+    "\\WinApp\\Views",
+    "\\WinApp\\Views\\Login",
+    "\\WinApp\\Views\\_controls"
+  ],
+  "SelectedNode": "\\WinApp\\App_Data\\Actions.json",
+  "PreviewInSolutionExplorer": false
+}

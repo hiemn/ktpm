@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MyFiles\\HUST\\KTPM\\KTPM_FULL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MyFiles\\HUST\\KTPM\\KTPM_FULL\\WinApp\\App_Data\\Actions.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WinApp\\App_Data\\Actions.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MyFiles\\HUST\\KTPM\\KTPM_FULL\\WinApp\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WinApp\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MyFiles\\HUST\\KTPM\\KTPM_FULL\\WinApp\\MainWindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WinApp\\MainWindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MyFiles\\HUST\\KTPM\\KTPM_FULL\\WinApp\\Models\\Migration\\Provider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WinApp\\Models\\Migration\\Provider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MyFiles\\HUST\\KTPM\\KTPM_FULL\\WinApp\\Controllers\\LoginController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WinApp\\Controllers\\LoginController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MyFiles\\HUST\\KTPM\\KTPM_FULL\\WinApp\\Views\\Login\\Login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WinApp\\Views\\Login\\Login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MyFiles\\HUST\\KTPM\\KTPM_FULL\\WinApp\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WinApp\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MyFiles\\HUST\\KTPM\\KTPM_FULL\\WinApp\\Controllers\\TaiKhoanController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WinApp\\Controllers\\TaiKhoanController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MyFiles\\HUST\\KTPM\\KTPM_FULL\\WinApp\\Controllers\\AdminController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WinApp\\Controllers\\AdminController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Actions.json",
+              "DocumentMoniker": "D:\\MyFiles\\HUST\\KTPM\\KTPM_FULL\\WinApp\\App_Data\\Actions.json",
+              "RelativeDocumentMoniker": "WinApp\\App_Data\\Actions.json",
+              "ToolTip": "D:\\MyFiles\\HUST\\KTPM\\KTPM_FULL\\WinApp\\App_Data\\Actions.json",
+              "RelativeToolTip": "WinApp\\App_Data\\Actions.json",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-23T18:17:34.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\MyFiles\\HUST\\KTPM\\KTPM_FULL\\WinApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WinApp\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\MyFiles\\HUST\\KTPM\\KTPM_FULL\\WinApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WinApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T18:13:51.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\MyFiles\\HUST\\KTPM\\KTPM_FULL\\WinApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WinApp\\MainWindow.xaml",
+              "ToolTip": "D:\\MyFiles\\HUST\\KTPM\\KTPM_FULL\\WinApp\\MainWindow.xaml",
+              "RelativeToolTip": "WinApp\\MainWindow.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-23T18:13:39.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Provider.cs",
+              "DocumentMoniker": "D:\\MyFiles\\HUST\\KTPM\\KTPM_FULL\\WinApp\\Models\\Migration\\Provider.cs",
+              "RelativeDocumentMoniker": "WinApp\\Models\\Migration\\Provider.cs",
+              "ToolTip": "D:\\MyFiles\\HUST\\KTPM\\KTPM_FULL\\WinApp\\Models\\Migration\\Provider.cs",
+              "RelativeToolTip": "WinApp\\Models\\Migration\\Provider.cs",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T18:12:26.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\MyFiles\\HUST\\KTPM\\KTPM_FULL\\WinApp\\App.config",
+              "RelativeDocumentMoniker": "WinApp\\App.config",
+              "ToolTip": "D:\\MyFiles\\HUST\\KTPM\\KTPM_FULL\\WinApp\\App.config",
+              "RelativeToolTip": "WinApp\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-23T17:58:08.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\MyFiles\\HUST\\KTPM\\KTPM_FULL\\WinApp\\Views\\Login\\Login.cs",
+              "RelativeDocumentMoniker": "WinApp\\Views\\Login\\Login.cs",
+              "ToolTip": "D:\\MyFiles\\HUST\\KTPM\\KTPM_FULL\\WinApp\\Views\\Login\\Login.cs",
+              "RelativeToolTip": "WinApp\\Views\\Login\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T17:55:39.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaiKhoanController.cs",
+              "DocumentMoniker": "D:\\MyFiles\\HUST\\KTPM\\KTPM_FULL\\WinApp\\Controllers\\TaiKhoanController.cs",
+              "RelativeDocumentMoniker": "WinApp\\Controllers\\TaiKhoanController.cs",
+              "ToolTip": "D:\\MyFiles\\HUST\\KTPM\\KTPM_FULL\\WinApp\\Controllers\\TaiKhoanController.cs",
+              "RelativeToolTip": "WinApp\\Controllers\\TaiKhoanController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T17:54:35.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\MyFiles\\HUST\\KTPM\\KTPM_FULL\\WinApp\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "WinApp\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\MyFiles\\HUST\\KTPM\\KTPM_FULL\\WinApp\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "WinApp\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAABwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T17:48:37.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\MyFiles\\HUST\\KTPM\\KTPM_FULL\\WinApp\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "WinApp\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\MyFiles\\HUST\\KTPM\\KTPM_FULL\\WinApp\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "WinApp\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T17:44:43.831Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
